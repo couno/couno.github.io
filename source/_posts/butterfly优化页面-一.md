@@ -148,7 +148,7 @@ footer_bg: true
 
 1. 打开 hexo 工作目录
 
-2. npm install hexo-wordcount --save or yarn add hexo-wordcount
+2. `npm install hexo-wordcount --save` or `yarn add hexo-wordcount`
 
 3. 修改 主题配置文件:
 
