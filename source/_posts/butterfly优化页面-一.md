@@ -12,6 +12,7 @@ cover: https://blog-img-1309454986.cos.ap-nanjing.myqcloud.com/butterfly.png
 在配置文件_config.butterfly.yml中找到theme_color
 
 对其中进行修改，这里是纯色背景
+[文章参考](#post)
 
 ### **图片背景**
 
@@ -160,7 +161,7 @@ footer_bg: true
 
 
 
-**文章参考**：
+**<span id="post">文章参考</span>**：
 
 - http://t.csdn.cn/UIquL
 - http://t.csdn.cn/Ypuap 子文章配置页面
