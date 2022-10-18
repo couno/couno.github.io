@@ -123,3 +123,4 @@ config get *  //查看所有配置信息
 
 ![实例](https://blog-img-1309454986.cos.ap-nanjing.myqcloud.com/image-20221004130802273.png)
 
+😁
